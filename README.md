@@ -15,18 +15,21 @@ The following are the dependencies needed to install Appium
     Then clone the repo: git clone https://github.com/hala-samir/Monefy.git
 
 # Scenarios
-  The automated scenarios here are the most used scenarios which have a business impact in case of failure with priority serious and high:
+  The automated scenarios here are the most used scenarios which have a business impact
+  in case of failure with priority serious and high:
+  
   ### Test cases:
       1. A user can CRUD income (Priority: serious).
       2. A user can CRUD expense (Priority: serious).
       3. A user can CRUD account (Priority: high).
-      4. Settings (like changing language, changing categories' name, changing currency) (Priority: medium).
+      4. Settings (like changing language, changing categories' name, changing currency)(Priority: medium).
       5. Search (search field, search by date) (Priority: medium).
       6. Filter balance by day, by month or by year (Priority: medium).
       
   ### The possibilities of automating the selected test cases on different levels:
     The main test levels are unit testing, integration testing, system testing, and acceptance testing.
-    We can here apply a test pyramid and its testing levels on automation (E2E test, integration tests and unit tests).
+    We can here apply a test pyramid and its testing levels on automation 
+    (E2E test, integration tests and unit tests).
     
     1. E2E testing: 
     
