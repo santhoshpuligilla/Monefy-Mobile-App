@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4be4770-4ebf-47e7-8e08-ae1cf716878d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_78.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_validator_commons_validator_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_appium_java_client_7_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_3_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/src/test/config/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/AccountTests.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/AccountTests/Command line test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/AccountTests/Command line test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/AccountTests/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/ExpensesTests.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/ExpensesTests/Command line test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/ExpensesTests/Command line test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/IncomeTests.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/IncomeTests/Command line test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/IncomeTests/Command line test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/TEST-AccountTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/TEST-ExpensesTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/TEST-IncomeTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/junitreports/TEST-AccountTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/junitreports/TEST-ExpensesTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/junitreports/TEST-IncomeTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/old/AccountTests/Command line test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/old/AccountTests/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/old/AccountTests/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/old/AccountTests/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/old/AccountTests/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/old/AccountTests/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/old/AccountTests/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/old/AccountTests/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/old/AccountTests/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/old/AccountTests/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/old/AccountTests/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/old/ExpensesTests/Command line test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/old/ExpensesTests/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/old/ExpensesTests/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/old/ExpensesTests/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/old/ExpensesTests/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/old/ExpensesTests/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/old/ExpensesTests/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/old/ExpensesTests/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/old/ExpensesTests/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/old/ExpensesTests/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/old/ExpensesTests/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/old/IncomeTests/Command line test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/old/IncomeTests/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/old/IncomeTests/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/old/IncomeTests/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/old/IncomeTests/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/old/IncomeTests/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/old/IncomeTests/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/old/IncomeTests/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/old/IncomeTests/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/old/IncomeTests/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/old/IncomeTests/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/testng-reports1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/testng-reports2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/target/surefire-reports/testng.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/Tests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Tests.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/src/test/java/AccountTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/src/test/java/AccountTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/src/test/java/ExpensesTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/src/test/java/ExpensesTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/src/test/java/IncomeTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/src/test/java/IncomeTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/src/test/java/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/src/test/java/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/target/classes/AddAccountPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/target/classes/AddAccountPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/target/classes/AddNewAccountPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/target/classes/AddNewAccountPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/target/classes/AddNewExpensesPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/target/classes/AddNewExpensesPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/target/classes/AddNewIncomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/target/classes/AddNewIncomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/target/classes/HomeScreen.class" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/target/classes/HomeScreen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/target/classes/META-INF/Tests.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/target/classes/PageBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/target/classes/PageBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/target/classes/TransactionsListPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/target/classes/TransactionsListPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/target/test-classes/AccountTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/target/test-classes/AccountTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/target/test-classes/ExpensesTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/target/test-classes/ExpensesTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/target/test-classes/IncomeTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/target/test-classes/IncomeTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/target/test-classes/META-INF/Tests.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/target/test-classes/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/target/test-classes/TestBase.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="20Of5u7Lb6pRWErFrq71sdSfCs9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable" value="ALL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="TestNG.IncomeTests">
+    <configuration name="AccountTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Tests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AccountTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpensesTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Tests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExpensesTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpensesTests.addEditDeleteExpense" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Tests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExpensesTests" />
+      <option name="METHOD_NAME" value="addEditDeleteExpense" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IncomeTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Tests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IncomeTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IncomeTests.addEditDeleteIncome" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Tests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IncomeTests" />
+      <option name="METHOD_NAME" value="addEditDeleteIncome" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.IncomeTests" />
+        <item itemvalue="TestNG.ExpensesTests" />
+        <item itemvalue="TestNG.ExpensesTests.addEditDeleteExpense" />
+        <item itemvalue="TestNG.AccountTests" />
+        <item itemvalue="TestNG.IncomeTests.addEditDeleteIncome" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4be4770-4ebf-47e7-8e08-ae1cf716878d" name="Changes" comment="" />
+      <created>1635920375567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635920375567</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/New_folder$AccountTests_addEditDeleteAccount.ic" NAME="AccountTests.addEditDeleteAccount Coverage Results" MODIFIED="1635928803878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
