@@ -1,6 +1,7 @@
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.android.AndroidDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
+import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 
@@ -31,7 +32,7 @@ public class TestBase {
     }
 
 // close a driver after test
-    @AfterTest
+    @AfterClass
     public void tearDown()
     {
         if(null!=driver)

@@ -10,19 +10,24 @@ public class ExpensesTests extends TestBase {
     AddNewExpensesPage addExpensePage;
     TransactionsListPage transactionsPage;
 
-    @Test
-    public void addEditDeleteExpense() throws IOException {
+    @Test(priority = 1)
+    //add new expense
+    public void addExpense() throws IOException {
         Android_setup();
         homeScreen = new HomeScreen(driver);
         addExpensePage = new AddNewExpensesPage(driver);
-        transactionsPage = new TransactionsListPage(driver);
-        //add new expense
         homeScreen.clickAddExpense();
         addExpensePage.clickFiveBtn();
         addExpensePage.clickChooseCategoryBtn();
         addExpensePage.clickExpenseCategory();
-        Assert.assertEquals(homeScreen.balanceAmount.getText(),"Balance -$5.00");
-        //edit an added expense
+        Assert.assertEquals(homeScreen.balanceAmount.getText(), "Balance -$5.00");
+    }
+    @Test(priority = 2, dependsOnMethods = {"addExpense"})
+    //edit an added expense
+    public void editExpense() {
+        homeScreen = new HomeScreen(driver);
+        addExpensePage = new AddNewExpensesPage(driver);
+        transactionsPage = new TransactionsListPage(driver);
         homeScreen.waitForBalanceVisibility();
         homeScreen.clickBalanceAmount();
         transactionsPage.clickTransaction();
@@ -31,8 +36,14 @@ public class ExpensesTests extends TestBase {
         addExpensePage.clickNineBtn();
         addExpensePage.clickBackBtn();
         homeScreen.waitForBalanceVisibility();
-        Assert.assertEquals(homeScreen.balanceAmount.getText(),"Balance -$9.00");
-        //delete the added expense
+        Assert.assertEquals(homeScreen.balanceAmount.getText(), "Balance -$9.00");
+    }
+    @Test(priority = 3, dependsOnMethods = {"addExpense", "editExpense"})
+    //delete the added expense
+    public void deleteExpense() {
+        homeScreen = new HomeScreen(driver);
+        addExpensePage = new AddNewExpensesPage(driver);
+        transactionsPage = new TransactionsListPage(driver);
         transactionsPage.clickTransaction();
         transactionsPage.clickExistingAmount();
         addExpensePage.clickDeleteBtn();

@@ -8,19 +8,22 @@ public class IncomeTests extends TestBase {
     AddNewIncomePage addIncomePage;
     TransactionsListPage transactionsPage;
 
-    @Test
-    public void addEditDeleteIncome() throws IOException {
+    @Test(priority = 1)
+    //add new income
+    public void addIncome() throws IOException {
         Android_setup();
         homeScreen = new HomeScreen(driver);
         addIncomePage = new AddNewIncomePage(driver);
         transactionsPage = new TransactionsListPage(driver);
-        //add new income
         homeScreen.clickAddIncome();
         addIncomePage.clickFiveBtn();
         addIncomePage.clickChooseCategoryBtn();
         addIncomePage.clickDepositsCategory();
-        Assert.assertEquals(homeScreen.balanceAmount.getText(),"Balance $5.00");
-        //edit the added income
+        Assert.assertEquals(homeScreen.balanceAmount.getText(), "Balance $5.00");
+    }
+    @Test(priority = 2, dependsOnMethods = {"addIncome"})
+    //edit the added income
+     public void editIncome() {
         homeScreen.waitForBalanceVisibility();
         homeScreen.clickBalanceAmount();
         transactionsPage.clickTransaction();
@@ -29,8 +32,11 @@ public class IncomeTests extends TestBase {
         addIncomePage.clickNineBtn();
         addIncomePage.clickBackBtn();
         homeScreen.waitForBalanceVisibility();
-        Assert.assertEquals(homeScreen.balanceAmount.getText(),"Balance $9.00");
-        //delete the added income
+        Assert.assertEquals(homeScreen.balanceAmount.getText(), "Balance $9.00");
+    }
+    @Test(priority = 3, dependsOnMethods = {"addIncome", "editIncome"})
+    //delete the added income
+    public void deleteIncome() {
         transactionsPage.clickTransaction();
         transactionsPage.clickExistingAmount();
         addIncomePage.clickDeleteBtn();
