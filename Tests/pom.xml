@@ -32,13 +32,9 @@
         <version>7.4.0</version>
         <scope>test</scope>
     </dependency>
-
 </dependencies>
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
-
-
-
 </project>
