@@ -14,7 +14,7 @@ The following are the dependencies needed to install Appium
     TestNG
     Then clone the repo: git clone https://github.com/hala-samir/Monefy.git
     Then after downloading the project and its depedancies of the maven file (pom.xml)
-    Now we can run the test suit from a command line : mvn test
+    Now we can run the test suite from a command line : mvn test
 
 # Scenarios
   The automated scenarios here are the most used scenarios which have a business impact
